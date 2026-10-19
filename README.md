@@ -134,7 +134,7 @@ The app stores data in browser storage:
 ## What I learned
 
 From this project, I learned:
-
+-how to use ai for building UI and formatting the spaces and alignment of code
 - how to build a login/register layout in HTML and CSS
 - how to switch between forms using JavaScript
 - how to store data using localStorage
